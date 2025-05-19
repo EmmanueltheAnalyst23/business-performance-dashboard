@@ -1,4 +1,4 @@
-Business Performance Dashboard (Excel)
+Business Performance Dashboard (Excel):
 This project presents a fully interactive business performance dashboard built entirely in Microsoft Excel. It was created as part of my Business Analytics work to visualize key metrics in a clear and dynamic format.
 
 Overview:
