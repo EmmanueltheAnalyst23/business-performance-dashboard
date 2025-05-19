@@ -5,11 +5,12 @@ Overview:
 The dashboard provides a snapshot of key business data including revenue, profit, and category breakdowns. It uses Excel’s built-in tools to make the data easy to explore and understand, with filters that allow users to focus on specific areas of interest.
 
 Tools and Techniques Used:
-Pivot tables and pivot charts for summarizing and visualizing data
-Slicers for interactive filtering
-Conditional formatting to highlight key values and trends
-Basic Excel formulas such as SUM and AVERAGE
-Clean layout and structure using Excel’s formatting tools
+
+- Pivot tables and pivot charts for summarizing and visualizing data
+- Slicers for interactive filtering
+- Conditional formatting to highlight key values and trends
+- Basic Excel formulas such as SUM and AVERAGE
+- Clean layout and structure using Excel’s formatting tools
 
 File Included:
 Dashboard (master) 2.xlsx – the full Excel file with formulas, visuals, and working interactivity
